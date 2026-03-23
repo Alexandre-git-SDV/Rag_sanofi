@@ -91,7 +91,7 @@ rag_sanofi/
 ### 2. Création du virtual environment et installation
 
 ```bash
-cd /home/agouraud/Documents/Cours/Data\ IA/tp7/rag_sanofi
+cd /projet
 
 # Créer le virtual environment
 python3 -m venv .venv
